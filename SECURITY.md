@@ -125,7 +125,8 @@ If you submit a report in accordance with this Policy which affects a third part
 Please note that we cannot authorize out-of-Scope testing in the name of third parties, and such testing is beyond the Scope of our Policy. Please contact any third party either directly or through a legal representative, or refer to such third party’s vulnerability disclosure Policy before initiating any testing on that third party or their services. This is not, and should not be understood as, any agreement on our part to defend, indemnify, or otherwise protect you from any third party action based on your actions.
 
 ## Official Channels
-Please submit all security bug reports to [security@gradle.com](mailto:security@gradle.com). The more details you provide, the easier it will be for us to triage and fix the issue.
+Please submit all security bug reports to [security@gradle.com](mailto:security@gra![Uploading Screenshot_20231213-160835.png…]()
+dle.com). The more details you provide, the easier it will be for us to triage and fix the issue.
 
 Suggestions of useful information include:
  - Thorough description of the vulnerability.
